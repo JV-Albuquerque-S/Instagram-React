@@ -1,8 +1,9 @@
-export default function Icones(){
+export default function FundoMobile(){
     return(
-        <div class="icones">
-            <Ion name="paper-plane-outline" />
-            <Ion name="compass-outline" />
+        <div class="fundo-mobile">
+            <Ion name="home"/>
+            <Ion name="search-outline"/>
+            <Ion name="add-circle-outline" />
             <Ion name="heart-outline" />
             <Ion name="person-outline" />
         </div>
