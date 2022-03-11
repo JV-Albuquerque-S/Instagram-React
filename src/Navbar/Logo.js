@@ -3,7 +3,7 @@ export default function Logo(){
         <div class="logo">
             <ion-icon name="logo-instagram"></ion-icon>
             <div class="separador"></div>
-            <img src="assets/img/logo.png" alt="Logomarca"/>
+            <img src="instagram/assets/img/logo.png" alt="Logomarca"/>
         </div>
     )
 }

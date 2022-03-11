@@ -1,7 +1,7 @@
 export default function InstagramMobile(){
     return(
         <div class="instagram-mobile">
-            <img src="assets/img/logo.png" alt="InstaMob"/>
+            <img src="instagram/assets/img/logo.png" alt="InstaMob"/>
         </div>
     )
 }
